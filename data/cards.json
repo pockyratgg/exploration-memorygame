@@ -1,0 +1,39 @@
+[
+    {
+        "image": "/assets/planet01.png",
+        
+        "name": "planet01"
+    },
+    {
+        "image": "/assets/planet02.png",
+        "name": "planet02"
+    },
+    {
+        "image": "/assets/planet03.png",
+        "name": "planet03"
+    },
+    {
+        "image": "/assets/planet04.png",
+        "name": "planet04"
+    },
+    {
+        "image": "/assets/planet05.png",
+        "name": "planet05"
+    },
+    {
+        "image": "/assets/planet06.png",
+        "name": "planet06"
+    },
+    {
+        "image": "/assets/planet07.png",
+        "name": "planet07"
+    },
+    {
+        "image": "/assets/planet08.png",
+        "name": "planet08"
+    },
+    {
+        "image": "/assets/planet09.png",
+        "name": "planet09"
+    }
+]
